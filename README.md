@@ -1,5 +1,5 @@
 ## Seja bem-vindo ao meu perfil do GitHub 👋
-
+# Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script e python.
 <!--
 **ArthurCoFa/ArthurCoFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
