@@ -1,7 +1,7 @@
 # Seja bem-vindo ao meu perfil do GitHub 👋
 ## Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script e python. Atualmente na faculdade venho estudando C.
 
-#Formas de contato
+# Formas de contato
 ##[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](www.linkedin.com/in/arthur-da-costa-farias-607a59362)
 <!--
 **ArthurCoFa/ArthurCoFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
