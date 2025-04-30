@@ -3,6 +3,7 @@
 
 # Formas de contato
 ## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362)
+## [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dacost4_/)
 
 <!--
 **ArthurCoFa/ArthurCoFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
