@@ -2,7 +2,7 @@
 ## Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script e python. Atualmente na faculdade venho estudando C.
 
 # Formas de contato
-## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dacost4_/)
+## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dacost4_/) [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:arthurdacosta22012007@gmail.com)
 
 <!--
 **ArthurCoFa/ArthurCoFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
