@@ -2,7 +2,7 @@
 ## Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script e python. Atualmente na faculdade venho estudando C.
 
 # Formas de contato
-## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](www.linkedin.com/in/arthur-da-costa-farias-607a59362)
+## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362)
 
 <!--
 **ArthurCoFa/ArthurCoFa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
