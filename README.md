@@ -4,7 +4,7 @@
 # Formas de contato
 ## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dacost4_/) [![Gmail Badge](https://img.shields.io/badge/-arthurdacosta22012007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurdacosta22012007@gmail.com)](mailto:arthurdacosta22012007@gmail.com)
 
-## <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=tokyonight" width="527px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact" width="400px"> 
+## <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=tokyonight" width="427px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact" width="300px"> 
 
 <div align="center">
   <a href="https://arthurcofa.github.io/"> Acesse o meu site clicando no texto</a>
