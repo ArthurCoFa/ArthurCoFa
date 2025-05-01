@@ -4,7 +4,7 @@
 # Formas de contato
 ## [![Linkedin](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/arthur-da-costa-farias-607a59362)](https://linkedin.com/in/arthur-da-costa-farias-607a59362) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_dacost4_/) [![Gmail Badge](https://img.shields.io/badge/-arthurdacosta22012007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:arthurdacosta22012007@gmail.com)](mailto:arthurdacosta22012007@gmail.com)
 
-## <img src="https://github-readme-stats.vercel.app/api/toplangs/?username=ArthurCoFa&layout=compact">
+## <img src="https://github-readme-stats.vercel.app/api/toplangs/?username=ArthurCoFa&layout=compact"/>
 
 ## ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
