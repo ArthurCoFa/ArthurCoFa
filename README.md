@@ -6,6 +6,8 @@
 
 ## <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=tokyonight" width="427px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact" width="325px"> 
 
+## [![Contribuição](https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=tokyonight)](https://www.github.com/ArthurCoFa) [![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact)](https://www.github.com/ArthurCoFa)
+
 <div align="center">
   <a href="https://arthurcofa.github.io/"> Acesse o meu site clicando no texto</a>
 </div>
