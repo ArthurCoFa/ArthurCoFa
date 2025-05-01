@@ -8,7 +8,7 @@
 
 #
 
-## <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=dark&locale=pt-br" width="427px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact&locale=pt-br&theme=dark" width="325px"> 
+## <img src="https://github-readme-stats.vercel.app/api?username=ArthurCoFa&show_icons=true&theme=aura&locale=pt-br" width="427px"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurCoFa&layout=compact&locale=pt-br&theme=aura" width="325px"> 
 
 #
 
