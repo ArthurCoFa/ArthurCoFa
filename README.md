@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil do GitHub 👋
 
-## Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script e python. Atualmente na faculdade venho estudando C.
+## Meu nome é Arthur da Costa Farias, sou estudante de Engenharia de computação e tenho experiência em liguagem C, C++, HTML, CSS, Java Script, Java e python.
 
 # Formas de contato 
 
